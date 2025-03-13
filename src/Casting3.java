@@ -8,6 +8,8 @@ public class Casting3 {
 		
 		System.out.println("El número decimal queda de la siguiente manera: " + numeroDecimal);
 		
+		// Con este casting se convierte un número entero a un decimal
+		
 	}
 
 }
